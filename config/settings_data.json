@@ -139,27 +139,6 @@
 
     ],
     "blocks": {
-      "14044569291296200651": {
-        "type": "shopify://apps/bundle-builder/blocks/bb-cart-integration-custom/78802baf-205d-4d1d-908c-fae911f24e36",
-        "disabled": true,
-        "settings": {
-          "theme_override": "",
-          "page_cartItemBox": "",
-          "page_cartItem": "",
-          "page_cartSubtotal": "",
-          "page_cartOriginalTotal": "",
-          "page_checkoutButton": "",
-          "drawer_cartItemBox": "",
-          "drawer_cartItem": "",
-          "drawer_cartSubtotal": "",
-          "drawer_cartOriginalTotal": "",
-          "drawer_checkoutButton": "",
-          "cartItemPrice": "",
-          "cartItemLinePrice": "",
-          "cartItemQuantity": "",
-          "observeTargets": ""
-        }
-      },
       "2323586426992478052": {
         "type": "shopify://apps/bundle-builder/blocks/bundle-page-redirect/78802baf-205d-4d1d-908c-fae911f24e36",
         "disabled": false,
@@ -192,6 +171,27 @@
           "modal_item_content_background": "#f1f1f1",
           "modal_item_product_background": "#ffffff",
           "custom_css": ""
+        }
+      },
+      "14044569291296200651": {
+        "type": "shopify://apps/bundle-builder/blocks/bb-cart-integration-custom/78802baf-205d-4d1d-908c-fae911f24e36",
+        "disabled": false,
+        "settings": {
+          "theme_override": "",
+          "page_cartItemBox": "",
+          "page_cartItem": "",
+          "page_cartSubtotal": "",
+          "page_cartOriginalTotal": "",
+          "page_checkoutButton": "",
+          "drawer_cartItemBox": "",
+          "drawer_cartItem": "",
+          "drawer_cartSubtotal": "",
+          "drawer_cartOriginalTotal": "",
+          "drawer_checkoutButton": "",
+          "cartItemPrice": "",
+          "cartItemLinePrice": "",
+          "cartItemQuantity": "",
+          "observeTargets": ""
         }
       }
     },
